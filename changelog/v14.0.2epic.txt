@@ -1,0 +1,3 @@
+Added trollface, as a replacement to troll emoji.
+
+Trolled :trollface:
